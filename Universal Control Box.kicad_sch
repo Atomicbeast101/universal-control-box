@@ -2185,6 +2185,35 @@
     (uuid ee573cc6-2803-4502-9892-b487fc4ceb9e)
   )
 
+  (text_box "AMS1117 regulator datasheet says it requires the use of tantalum capacitor on the output. There is a risk of tan capacitor exploding if there is a high voltage spike. Engineers say avoid tan caps at all costs.\n\nCould substitute with ceramic capacitor but need to add small resistor to get similar ESR as tantalum. AMS1117 is very old regulator and is sensitive to ESR variance. I read some posts online, use 1-2 ohms resistor in series.\n\nI've used ceramic cap without resistor in series in the past, seems to work fine but I stopped using 1117 regulators. I switched to something else because it has lower a forward voltage drop.\n\nI use XC6220B331MR-G, it can use ceramic caps. JLCPCB part#C86534. There's no difference in using basic or extended parts for standard assembly (All ESP32 modules only can be assembled using standard assembly and not economical)"
+    (at 80.01 135.89 0) (size 68.58 39.37)
+    (stroke (width 0) (type default))
+    (fill (type color) (color 255 255 194 0.25))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid 05be8335-07c5-4668-b734-fec3c1780527)
+  )
+  (text_box "Rearrange pin assignments so that the traces from pins 4-11 can cover keycap footprints on the left half of the board and pins 13-20 covers the right half of the board. This will make routing the traces easier."
+    (at 140.97 38.1 0) (size 29.21 20.32)
+    (stroke (width 0) (type default))
+    (fill (type color) (color 255 255 194 0.25))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid e3796ab5-5361-469a-a532-c2c0ca928f52)
+  )
+  (text_box "Down pin should be reserved for Ground. Move LED_DATA to left side. Flow is from left to right."
+    (at 113.03 86.36 0) (size 29.21 10.16)
+    (stroke (width 0) (type default))
+    (fill (type color) (color 255 255 194 0.25))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid f3b9dd85-5f8a-44d4-b75c-bcb4d0b0d89c)
+  )
+  (text_box "I think you should connect interrupt pin to ESP32, just in case ESPHome add support for it in the future. \"Future Proof\""
+    (at 140.97 22.86 0) (size 29.21 13.97)
+    (stroke (width 0) (type default))
+    (fill (type color) (color 255 255 194 0.25))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid fdfec1fa-5036-4759-a664-38697f67fadb)
+  )
+
   (text "Mounting Holes" (at 31.75 149.86 0)
     (effects (font (size 1.27 1.27) (color 255 153 0 1)) (justify left bottom))
     (uuid 0a650ebc-1f4b-4f6f-b6e9-fe94ac625460)

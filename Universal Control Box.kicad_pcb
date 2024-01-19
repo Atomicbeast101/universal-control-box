@@ -5865,6 +5865,10 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp de5a3716-ee8f-485c-bc43-8ddb4723ddc8))
   (gr_line (start 47.9 34.3) (end 47.9 40.2)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp eeb8afbe-0c57-41b2-b898-2f4ad395378e))
+  (gr_text_box "Rearrange pin assignments so that the traces from pins 4-11 can cover keycap footprints on the left half of the board and pins 13-20 covers the right half of the board. This will make routing the traces easier."
+    (start 78.867 69.215) (end 109.855 79.629) (layer "Cmts.User") (tstamp 004686a9-a5d0-4f7a-9dcb-f153f0969fd2)
+      (effects (font (size 1 1) (thickness 0.15)) (justify left top))
+    (stroke (width 0.1) (type solid))  )
 
   (segment (start 51.2 45.1) (end 51.965 44.335) (width 0.25) (layer "F.Cu") (net 1) (tstamp 13f50045-114e-4e73-a270-07ed0235bf58))
   (segment (start 51.965 44.335) (end 53.3 44.335) (width 0.25) (layer "F.Cu") (net 1) (tstamp 2a5c5745-bf59-4495-94f4-a05e14ec348f))

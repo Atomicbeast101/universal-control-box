@@ -2075,6 +2075,14 @@
     (uuid db2b5b58-952b-4c9e-a008-3a86fa553ab7)
   )
 
+  (text_box "General schematic flows from left to right. So for custom symbol, all input goes to the left side of the symbol box and the output will leave from symbol box on the right side. That's the general convention and make it easier to wire from one component to the next one. Right now your output has to wrap around corner to get to the next one.\n\nConvention guidelines:\nhttps://klc.kicad.org/"
+    (at 217.17 15.24 0) (size 39.37 30.48)
+    (stroke (width 0) (type default))
+    (fill (type color) (color 255 255 194 0.25))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid c11c30df-cf77-40f8-bcba-470163c8ec6c)
+  )
+
   (text "Push Switches" (at 199.39 101.6 0)
     (effects (font (size 1.27 1.27) (color 255 153 0 1)) (justify left bottom))
     (uuid 5a7f0e35-cef8-4597-bef5-15d5e200ad85)
