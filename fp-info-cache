@@ -1,4 +1,4 @@
-23439542573089799
+23444661364110109
 Adam_Custom_Footprints
 Bourns_PEC11H4025FS0016
 PEC11H-4025F-S0016-2
@@ -22,6 +22,13 @@ CherryMX 1.00u PCB LTST-A683CEGBW
 6
 Adam_Custom_Footprints
 CherryMX_1.00u_PCB_SK6812-EC20
+Cherry MX switch footprint. Size: 1.00u, Mount type: PCB, Using Kailh Socket: no, Stabilizer: n/a, Lighting: LTST-A683CEGBW
+CherryMX 1.00u PCB LTST-A683CEGBW
+0
+6
+6
+Adam_Custom_Footprints
+CherryMX_1.00u_PCB_WS2812B-2020
 Cherry MX switch footprint. Size: 1.00u, Mount type: PCB, Using Kailh Socket: no, Stabilizer: n/a, Lighting: LTST-A683CEGBW
 CherryMX 1.00u PCB LTST-A683CEGBW
 0
@@ -84,6 +91,13 @@ QFN50P500X500X100-33N
 33
 33
 Adam_Custom_Footprints
+SK6812MINIE
+SK6812MINI-E-1
+LED
+0
+4
+4
+Adam_Custom_Footprints
 SW_DPDT_XLX
 DPDT Latching
 SW DPDT
@@ -97,6 +111,13 @@ PCF8575DBR
 0
 24
 24
+Adam_Custom_Footprints
+WS2812B2020
+WS2812B-2020-2
+LED (Multiple)
+0
+4
+4
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
