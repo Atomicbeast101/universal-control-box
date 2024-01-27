@@ -1897,7 +1897,7 @@
   (symbol (lib_id "Device:R_Small") (at 229.87 31.75 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 07c20a9a-8277-42a8-a606-c852d6197fdc)
-    (property "Reference" "R311" (at 236.22 30.48 0)
+    (property "Reference" "R306" (at 236.22 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 234.95 33.02 0)
@@ -1917,7 +1917,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "R311") (unit 1)
+          (reference "R306") (unit 1)
         )
       )
     )
@@ -1926,7 +1926,7 @@
   (symbol (lib_id "Device:R_Small") (at 266.7 62.23 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 082f3918-5878-4fc2-ab56-37fc4308022d)
-    (property "Reference" "R314" (at 273.05 60.96 0)
+    (property "Reference" "R315" (at 273.05 60.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 271.78 63.5 0)
@@ -1946,7 +1946,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "R314") (unit 1)
+          (reference "R315") (unit 1)
         )
       )
     )
@@ -2005,7 +2005,7 @@
   (symbol (lib_id "CherryMX_WS2812B-2020:CherryMX_WS2812B-2020") (at 182.88 54.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1323ecbf-d52e-447b-955f-949fe3e9d5f6)
-    (property "Reference" "SW310" (at 182.88 46.99 0)
+    (property "Reference" "SW313" (at 182.88 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 182.88 48.26 0)
@@ -2029,7 +2029,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "SW310") (unit 1)
+          (reference "SW313") (unit 1)
         )
       )
     )
@@ -2038,7 +2038,7 @@
   (symbol (lib_id "CherryMX_WS2812B-2020:CherryMX_WS2812B-2020") (at 146.05 54.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 14669fd5-26da-4b37-8e9e-a564939c3ad3)
-    (property "Reference" "SW308" (at 146.05 46.99 0)
+    (property "Reference" "SW312" (at 146.05 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 146.05 48.26 0)
@@ -2062,7 +2062,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "SW308") (unit 1)
+          (reference "SW312") (unit 1)
         )
       )
     )
@@ -2100,7 +2100,7 @@
   (symbol (lib_id "Device:C_Small") (at 173.99 62.23 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 19ebe631-caaa-433b-8d2e-fededc1cc618)
-    (property "Reference" "C310" (at 176.53 60.96 0)
+    (property "Reference" "C313" (at 176.53 60.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 176.53 63.5 0)
@@ -2120,7 +2120,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "C310") (unit 1)
+          (reference "C313") (unit 1)
         )
       )
     )
@@ -2179,7 +2179,7 @@
   (symbol (lib_id "CherryMX_WS2812B-2020:CherryMX_WS2812B-2020") (at 146.05 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1adf4cd7-8215-4cc2-b56c-6d9a5f0da938)
-    (property "Reference" "SW307" (at 146.05 16.51 0)
+    (property "Reference" "SW304" (at 146.05 16.51 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 146.05 17.78 0)
@@ -2203,7 +2203,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "SW307") (unit 1)
+          (reference "SW304") (unit 1)
         )
       )
     )
@@ -2212,7 +2212,7 @@
   (symbol (lib_id "Device:R_Small") (at 119.38 31.75 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1b4baba0-3b08-45f4-82af-9ee931e93e87)
-    (property "Reference" "R305" (at 125.73 30.48 0)
+    (property "Reference" "R303" (at 125.73 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 124.46 33.02 0)
@@ -2232,7 +2232,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "R305") (unit 1)
+          (reference "R303") (unit 1)
         )
       )
     )
@@ -2241,7 +2241,7 @@
   (symbol (lib_id "Device:R_Small") (at 45.72 62.23 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1c995411-2fb0-4ee7-b56c-392345819002)
-    (property "Reference" "R302" (at 52.07 60.96 0)
+    (property "Reference" "R309" (at 52.07 60.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 50.8 63.5 0)
@@ -2261,7 +2261,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "R302") (unit 1)
+          (reference "R309") (unit 1)
         )
       )
     )
@@ -2295,7 +2295,7 @@
   (symbol (lib_id "Device:R_Small") (at 193.04 31.75 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1fa1c54d-9dad-4f4c-b5cc-b9a1b1866d8b)
-    (property "Reference" "R309" (at 199.39 30.48 0)
+    (property "Reference" "R305" (at 199.39 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 198.12 33.02 0)
@@ -2315,7 +2315,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "R309") (unit 1)
+          (reference "R305") (unit 1)
         )
       )
     )
@@ -2399,7 +2399,7 @@
   (symbol (lib_id "Device:C_Small") (at 63.5 31.75 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 293b5390-1d45-4959-99d1-1e951a9fd00a)
-    (property "Reference" "C303" (at 66.04 30.48 0)
+    (property "Reference" "C302" (at 66.04 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 66.04 33.02 0)
@@ -2419,7 +2419,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "C303") (unit 1)
+          (reference "C302") (unit 1)
         )
       )
     )
@@ -2428,7 +2428,7 @@
   (symbol (lib_id "CherryMX_WS2812B-2020:CherryMX_WS2812B-2020") (at 72.39 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2deaed4d-ba77-4441-a233-7e34e506c3de)
-    (property "Reference" "SW303" (at 72.39 16.51 0)
+    (property "Reference" "SW302" (at 72.39 16.51 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 72.39 17.78 0)
@@ -2452,7 +2452,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "SW303") (unit 1)
+          (reference "SW302") (unit 1)
         )
       )
     )
@@ -2486,7 +2486,7 @@
   (symbol (lib_id "Device:C_Small") (at 137.16 31.75 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 33166300-55ab-4c1b-b723-e6e323286aa0)
-    (property "Reference" "C307" (at 139.7 30.48 0)
+    (property "Reference" "C304" (at 139.7 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 139.7 33.02 0)
@@ -2506,7 +2506,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "C307") (unit 1)
+          (reference "C304") (unit 1)
         )
       )
     )
@@ -2540,7 +2540,7 @@
   (symbol (lib_id "Device:C_Small") (at 173.99 31.75 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3cf0fe06-c549-4aac-926b-e45290f0ac97)
-    (property "Reference" "C309" (at 176.53 30.48 0)
+    (property "Reference" "C305" (at 176.53 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 176.53 33.02 0)
@@ -2560,7 +2560,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "C309") (unit 1)
+          (reference "C305") (unit 1)
         )
       )
     )
@@ -2652,7 +2652,7 @@
   (symbol (lib_id "Device:R_Small") (at 156.21 31.75 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5031973b-0c3d-4511-97ec-fe0cf307f997)
-    (property "Reference" "R307" (at 162.56 30.48 0)
+    (property "Reference" "R304" (at 162.56 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 161.29 33.02 0)
@@ -2672,7 +2672,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "R307") (unit 1)
+          (reference "R304") (unit 1)
         )
       )
     )
@@ -2706,7 +2706,7 @@
   (symbol (lib_id "Device:C_Small") (at 100.33 31.75 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 56709a09-3537-40d2-a5a3-50f03bafb21f)
-    (property "Reference" "C305" (at 102.87 30.48 0)
+    (property "Reference" "C303" (at 102.87 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 102.87 33.02 0)
@@ -2726,7 +2726,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "C305") (unit 1)
+          (reference "C303") (unit 1)
         )
       )
     )
@@ -2843,7 +2843,7 @@
   (symbol (lib_id "CherryMX_WS2812B-2020:CherryMX_WS2812B-2020") (at 35.56 54.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6240d706-6f58-44fc-8b7e-76dd03d4a787)
-    (property "Reference" "SW302" (at 35.56 46.99 0)
+    (property "Reference" "SW309" (at 35.56 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 35.56 48.26 0)
@@ -2867,7 +2867,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "SW302") (unit 1)
+          (reference "SW309") (unit 1)
         )
       )
     )
@@ -2901,7 +2901,7 @@
   (symbol (lib_id "Device:R_Small") (at 82.55 31.75 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6a492a7f-fb9a-4f0d-a1a1-53656f6dfe0a)
-    (property "Reference" "R303" (at 88.9 30.48 0)
+    (property "Reference" "R302" (at 88.9 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 87.63 33.02 0)
@@ -2921,7 +2921,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "R303") (unit 1)
+          (reference "R302") (unit 1)
         )
       )
     )
@@ -2930,7 +2930,7 @@
   (symbol (lib_id "CherryMX_WS2812B-2020:CherryMX_WS2812B-2020") (at 182.88 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6b23db06-36be-40bf-a4b0-55c9aa255ac7)
-    (property "Reference" "SW309" (at 182.88 16.51 0)
+    (property "Reference" "SW305" (at 182.88 16.51 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 182.88 17.78 0)
@@ -2954,7 +2954,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "SW309") (unit 1)
+          (reference "SW305") (unit 1)
         )
       )
     )
@@ -3038,7 +3038,7 @@
   (symbol (lib_id "Device:C_Small") (at 210.82 62.23 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 76db9a35-14c5-47ed-90d4-bbcd7de00cdb)
-    (property "Reference" "C312" (at 213.36 60.96 0)
+    (property "Reference" "C314" (at 213.36 60.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 213.36 63.5 0)
@@ -3058,7 +3058,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "C312") (unit 1)
+          (reference "C314") (unit 1)
         )
       )
     )
@@ -3067,7 +3067,7 @@
   (symbol (lib_id "Device:R_Small") (at 303.53 31.75 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7879793e-ab23-496f-9a12-e730c287a9f9)
-    (property "Reference" "R315" (at 309.88 30.48 0)
+    (property "Reference" "R308" (at 309.88 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 308.61 33.02 0)
@@ -3087,7 +3087,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "R315") (unit 1)
+          (reference "R308") (unit 1)
         )
       )
     )
@@ -3171,7 +3171,7 @@
   (symbol (lib_id "CherryMX_WS2812B-2020:CherryMX_WS2812B-2020") (at 219.71 54.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 844229c9-7933-4e1c-8aa9-1a40ec421217)
-    (property "Reference" "SW312" (at 219.71 46.99 0)
+    (property "Reference" "SW314" (at 219.71 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 219.71 48.26 0)
@@ -3195,7 +3195,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "SW312") (unit 1)
+          (reference "SW314") (unit 1)
         )
       )
     )
@@ -3229,7 +3229,7 @@
   (symbol (lib_id "CherryMX_WS2812B-2020:CherryMX_WS2812B-2020") (at 256.54 54.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8dc1fabb-ebc7-46e9-80c6-83bce6c7edcc)
-    (property "Reference" "SW314" (at 256.54 46.99 0)
+    (property "Reference" "SW315" (at 256.54 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 256.54 48.26 0)
@@ -3253,7 +3253,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "SW314") (unit 1)
+          (reference "SW315") (unit 1)
         )
       )
     )
@@ -3262,7 +3262,7 @@
   (symbol (lib_id "Device:R_Small") (at 193.04 62.23 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8dd09f9d-6aa6-440b-b1d4-bc747531791f)
-    (property "Reference" "R310" (at 199.39 60.96 0)
+    (property "Reference" "R313" (at 199.39 60.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 198.12 63.5 0)
@@ -3282,7 +3282,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "R310") (unit 1)
+          (reference "R313") (unit 1)
         )
       )
     )
@@ -3291,7 +3291,7 @@
   (symbol (lib_id "Device:R_Small") (at 156.21 62.23 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 91abb8c8-214d-47a5-a6a4-1db744a3d167)
-    (property "Reference" "R308" (at 162.56 60.96 0)
+    (property "Reference" "R312" (at 162.56 60.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 161.29 63.5 0)
@@ -3311,7 +3311,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "R308") (unit 1)
+          (reference "R312") (unit 1)
         )
       )
     )
@@ -3320,7 +3320,7 @@
   (symbol (lib_id "Device:R_Small") (at 229.87 62.23 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 931c4e55-7936-43d9-9562-f5e57f5680c8)
-    (property "Reference" "R312" (at 236.22 60.96 0)
+    (property "Reference" "R314" (at 236.22 60.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 234.95 63.5 0)
@@ -3340,7 +3340,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "R312") (unit 1)
+          (reference "R314") (unit 1)
         )
       )
     )
@@ -3349,7 +3349,7 @@
   (symbol (lib_id "Device:R_Small") (at 266.7 31.75 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 93b5097f-467e-472f-93e3-b927099b3ffa)
-    (property "Reference" "R313" (at 273.05 30.48 0)
+    (property "Reference" "R307" (at 273.05 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 271.78 33.02 0)
@@ -3369,7 +3369,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "R313") (unit 1)
+          (reference "R307") (unit 1)
         )
       )
     )
@@ -3428,7 +3428,7 @@
   (symbol (lib_id "Device:C_Small") (at 26.67 62.23 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9b7df49c-8a38-4c07-800e-f808af49a8a1)
-    (property "Reference" "C302" (at 29.21 60.96 0)
+    (property "Reference" "C309" (at 29.21 60.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 29.21 63.5 0)
@@ -3448,7 +3448,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "C302") (unit 1)
+          (reference "C309") (unit 1)
         )
       )
     )
@@ -3457,7 +3457,7 @@
   (symbol (lib_id "Device:C_Small") (at 210.82 31.75 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9e5eedff-937e-40f6-9914-fd6ae6f85884)
-    (property "Reference" "C311" (at 213.36 30.48 0)
+    (property "Reference" "C306" (at 213.36 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 213.36 33.02 0)
@@ -3477,7 +3477,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "C311") (unit 1)
+          (reference "C306") (unit 1)
         )
       )
     )
@@ -3561,7 +3561,7 @@
   (symbol (lib_id "Device:C_Small") (at 284.48 31.75 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a2aad5bd-26f6-419c-8619-5ba7fea90abb)
-    (property "Reference" "C315" (at 287.02 30.48 0)
+    (property "Reference" "C308" (at 287.02 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 287.02 33.02 0)
@@ -3581,7 +3581,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "C315") (unit 1)
+          (reference "C308") (unit 1)
         )
       )
     )
@@ -3640,7 +3640,7 @@
   (symbol (lib_id "Device:C_Small") (at 247.65 62.23 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a632c7f2-6ee6-4d45-a9db-d01b24003b61)
-    (property "Reference" "C314" (at 250.19 60.96 0)
+    (property "Reference" "C315" (at 250.19 60.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 250.19 63.5 0)
@@ -3660,7 +3660,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "C314") (unit 1)
+          (reference "C315") (unit 1)
         )
       )
     )
@@ -3798,7 +3798,7 @@
   (symbol (lib_id "CherryMX_WS2812B-2020:CherryMX_WS2812B-2020") (at 293.37 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b2142cf8-1653-4717-8605-d84741104208)
-    (property "Reference" "SW315" (at 293.37 16.51 0)
+    (property "Reference" "SW308" (at 293.37 16.51 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 293.37 17.78 0)
@@ -3822,7 +3822,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "SW315") (unit 1)
+          (reference "SW308") (unit 1)
         )
       )
     )
@@ -3831,7 +3831,7 @@
   (symbol (lib_id "CherryMX_WS2812B-2020:CherryMX_WS2812B-2020") (at 109.22 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b23eec99-3377-43a4-84d1-a79cbafba415)
-    (property "Reference" "SW305" (at 109.22 16.51 0)
+    (property "Reference" "SW303" (at 109.22 16.51 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 109.22 17.78 0)
@@ -3855,7 +3855,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "SW305") (unit 1)
+          (reference "SW303") (unit 1)
         )
       )
     )
@@ -3914,7 +3914,7 @@
   (symbol (lib_id "CherryMX_WS2812B-2020:CherryMX_WS2812B-2020") (at 72.39 54.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ba6906ed-ef64-4763-9b47-649db83adb9f)
-    (property "Reference" "SW304" (at 72.39 46.99 0)
+    (property "Reference" "SW310" (at 72.39 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 72.39 48.26 0)
@@ -3938,7 +3938,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "SW304") (unit 1)
+          (reference "SW310") (unit 1)
         )
       )
     )
@@ -3947,7 +3947,7 @@
   (symbol (lib_id "Device:R_Small") (at 82.55 62.23 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ba8ae462-9e13-4e9f-8532-eb653b49efbc)
-    (property "Reference" "R304" (at 88.9 60.96 0)
+    (property "Reference" "R310" (at 88.9 60.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 87.63 63.5 0)
@@ -3967,7 +3967,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "R304") (unit 1)
+          (reference "R310") (unit 1)
         )
       )
     )
@@ -4001,7 +4001,7 @@
   (symbol (lib_id "CherryMX_WS2812B-2020:CherryMX_WS2812B-2020") (at 219.71 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c698076b-6178-475f-8a54-aed3e252ec56)
-    (property "Reference" "SW311" (at 219.71 16.51 0)
+    (property "Reference" "SW306" (at 219.71 16.51 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 219.71 17.78 0)
@@ -4025,7 +4025,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "SW311") (unit 1)
+          (reference "SW306") (unit 1)
         )
       )
     )
@@ -4059,7 +4059,7 @@
   (symbol (lib_id "Device:C_Small") (at 63.5 62.23 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c904279c-6bca-4a45-ac6b-44f5933876e4)
-    (property "Reference" "C304" (at 66.04 60.96 0)
+    (property "Reference" "C310" (at 66.04 60.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 66.04 63.5 0)
@@ -4079,7 +4079,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "C304") (unit 1)
+          (reference "C310") (unit 1)
         )
       )
     )
@@ -4088,7 +4088,7 @@
   (symbol (lib_id "Device:R_Small") (at 119.38 62.23 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cd590ab5-1cbd-48c2-90b6-41b073887249)
-    (property "Reference" "R306" (at 125.73 60.96 0)
+    (property "Reference" "R311" (at 125.73 60.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 124.46 63.5 0)
@@ -4108,7 +4108,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "R306") (unit 1)
+          (reference "R311") (unit 1)
         )
       )
     )
@@ -4150,7 +4150,7 @@
   (symbol (lib_id "CherryMX_WS2812B-2020:CherryMX_WS2812B-2020") (at 256.54 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d15b18fc-14d8-4cf4-9d04-e07cf62d4d2e)
-    (property "Reference" "SW313" (at 256.54 16.51 0)
+    (property "Reference" "SW307" (at 256.54 16.51 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 256.54 17.78 0)
@@ -4174,7 +4174,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "SW313") (unit 1)
+          (reference "SW307") (unit 1)
         )
       )
     )
@@ -4183,7 +4183,7 @@
   (symbol (lib_id "Device:C_Small") (at 100.33 62.23 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d666218e-e466-44e7-901d-09e001d9576f)
-    (property "Reference" "C306" (at 102.87 60.96 0)
+    (property "Reference" "C311" (at 102.87 60.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 102.87 63.5 0)
@@ -4203,7 +4203,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "C306") (unit 1)
+          (reference "C311") (unit 1)
         )
       )
     )
@@ -4312,7 +4312,7 @@
   (symbol (lib_id "Device:C_Small") (at 137.16 62.23 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e28df062-3831-4698-b1e6-f1cb0667b096)
-    (property "Reference" "C308" (at 139.7 60.96 0)
+    (property "Reference" "C312" (at 139.7 60.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 139.7 63.5 0)
@@ -4332,7 +4332,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "C308") (unit 1)
+          (reference "C312") (unit 1)
         )
       )
     )
@@ -4366,7 +4366,7 @@
   (symbol (lib_id "CherryMX_WS2812B-2020:CherryMX_WS2812B-2020") (at 109.22 54.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e906b7f0-f62e-477b-a3c2-53e8058df4c0)
-    (property "Reference" "SW306" (at 109.22 46.99 0)
+    (property "Reference" "SW311" (at 109.22 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 109.22 48.26 0)
@@ -4390,7 +4390,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "SW306") (unit 1)
+          (reference "SW311") (unit 1)
         )
       )
     )
@@ -4449,7 +4449,7 @@
   (symbol (lib_id "Device:C_Small") (at 247.65 31.75 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f2d2cca4-42f3-446d-9265-5eca0dceef2f)
-    (property "Reference" "C313" (at 250.19 30.48 0)
+    (property "Reference" "C307" (at 250.19 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 250.19 33.02 0)
@@ -4469,7 +4469,7 @@
     (instances
       (project "Universal Control Box"
         (path "/0356e092-4721-4291-8799-df5160707ecc/f5315814-35ef-4bdb-8db9-3336c3297f22"
-          (reference "C313") (unit 1)
+          (reference "C307") (unit 1)
         )
       )
     )
