@@ -1,4 +1,4 @@
-23444661364110109
+23456605498640474
 Adam_Custom_Footprints
 Bourns_PEC11H4025FS0016
 PEC11H-4025F-S0016-2
@@ -61327,6 +61327,13 @@ THT
 4
 2
 Josh_Custom_Footprints
+397730002
+39773-0002-3
+Connector
+0
+2
+2
+Josh_Custom_Footprints
 AFA07-S15FCC-00_1x15-1MP_P1.0mm_Horizontal
 Jushuo FPC connector, 15 top-side contacts, 1.0mm pitch, 1.0mm height, SMT
 te fpc 84953
@@ -61397,6 +61404,13 @@ CK_Components-1101M2S3CGE2-0-0-MFG
 3
 3
 Josh_Custom_Footprints
+DC_Power_Jack_PJ-063BH
+
+
+0
+4
+2
+Josh_Custom_Footprints
 DM3CS-SF
 DM3CS-SF
 Connector
@@ -61416,6 +61430,13 @@ Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/de
 Single 2.4 GHz Wi-Fi and Bluetooth combo  chip
 0
 60
+39
+Josh_Custom_Footprints
+ESP32­-WROOM­-32E
+
+ESP32-WROOM-32E 4MB 
+0
+47
 39
 Josh_Custom_Footprints
 Everlight_IRM-H638T-TR2
@@ -61502,6 +61523,13 @@ mounting slot 3.2mm no annular m3
 0
 0
 Josh_Custom_Footprints
+NES controller port
+
+
+0
+7
+5
+Josh_Custom_Footprints
 NX3224T024
 Nextion 2.4" Display
 
@@ -61537,6 +61565,13 @@ Programming Pad
 6
 6
 Josh_Custom_Footprints
+RP2040-QFN-56_EP_7x7_Pitch0.4mm
+
+
+0
+57
+57
+Josh_Custom_Footprints
 SLP2510P8
 
 
@@ -61550,6 +61585,20 @@ SMD DIP DIL PDIP SMDIP 1.27mm 6.6mm
 0
 8
 8
+Josh_Custom_Footprints
+SNES_Controller_Port_Horizontal
+
+
+0
+7
+7
+Josh_Custom_Footprints
+SNES_Controller_Port_Vertical
+
+
+0
+7
+7
 Josh_Custom_Footprints
 SOP127P600X175-9N
 
