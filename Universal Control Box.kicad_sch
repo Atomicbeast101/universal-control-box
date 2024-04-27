@@ -6,7 +6,6 @@
 	(paper "A4")
 	(title_block
 		(title "Universal Control Box")
-		(date "2023-12-28")
 		(rev "v1.0")
 	)
 	(lib_symbols
@@ -7084,7 +7083,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 29.21 143.51 0)
 			(effects
 				(font
@@ -7111,7 +7110,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C72043"
+		(property "LCSC" "C2297"
 			(at 29.21 143.51 0)
 			(effects
 				(font
@@ -8661,7 +8660,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 40.64 143.51 0)
 			(effects
 				(font
@@ -8688,7 +8687,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2286"
+		(property "LCSC" "C2296"
 			(at 40.64 143.51 0)
 			(effects
 				(font
@@ -10433,7 +10432,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 19.05 143.51 0)
 			(effects
 				(font
@@ -10460,7 +10459,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2286"
+		(property "LCSC" "C84256"
 			(at 19.05 143.51 0)
 			(effects
 				(font
