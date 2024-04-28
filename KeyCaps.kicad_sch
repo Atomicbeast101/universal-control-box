@@ -5007,7 +5007,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Adam_Custom_Footprints:CherryMX_1.00u_PCB_WS2812B-2020"
+		(property "Footprint" "footprints:CherryMX_1.00u_PCB_WS2812B-2020"
 			(at 182.88 48.26 0)
 			(effects
 				(font
@@ -5096,7 +5096,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Adam_Custom_Footprints:CherryMX_1.00u_PCB_WS2812B-2020"
+		(property "Footprint" "footprints:CherryMX_1.00u_PCB_WS2812B-2020"
 			(at 146.05 48.26 0)
 			(effects
 				(font
@@ -5474,7 +5474,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Adam_Custom_Footprints:CherryMX_1.00u_PCB_WS2812B-2020"
+		(property "Footprint" "footprints:CherryMX_1.00u_PCB_WS2812B-2020"
 			(at 146.05 17.78 0)
 			(effects
 				(font
@@ -6140,7 +6140,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Adam_Custom_Footprints:CherryMX_1.00u_PCB_WS2812B-2020"
+		(property "Footprint" "footprints:CherryMX_1.00u_PCB_WS2812B-2020"
 			(at 72.39 17.78 0)
 			(effects
 				(font
@@ -6518,7 +6518,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Adam_Custom_Footprints:CherryMX_1.00u_PCB_WS2812B-2020"
+		(property "Footprint" "footprints:CherryMX_1.00u_PCB_WS2812B-2020"
 			(at 35.56 17.78 0)
 			(effects
 				(font
@@ -7249,7 +7249,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Adam_Custom_Footprints:CherryMX_1.00u_PCB_WS2812B-2020"
+		(property "Footprint" "footprints:CherryMX_1.00u_PCB_WS2812B-2020"
 			(at 35.56 48.26 0)
 			(effects
 				(font
@@ -7482,7 +7482,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Adam_Custom_Footprints:CherryMX_1.00u_PCB_WS2812B-2020"
+		(property "Footprint" "footprints:CherryMX_1.00u_PCB_WS2812B-2020"
 			(at 182.88 17.78 0)
 			(effects
 				(font
@@ -8121,7 +8121,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Adam_Custom_Footprints:CherryMX_1.00u_PCB_WS2812B-2020"
+		(property "Footprint" "footprints:CherryMX_1.00u_PCB_WS2812B-2020"
 			(at 219.71 48.26 0)
 			(effects
 				(font
@@ -8275,7 +8275,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Adam_Custom_Footprints:CherryMX_1.00u_PCB_WS2812B-2020"
+		(property "Footprint" "footprints:CherryMX_1.00u_PCB_WS2812B-2020"
 			(at 256.54 48.26 0)
 			(effects
 				(font
@@ -9794,7 +9794,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Adam_Custom_Footprints:CherryMX_1.00u_PCB_WS2812B-2020"
+		(property "Footprint" "footprints:CherryMX_1.00u_PCB_WS2812B-2020"
 			(at 293.37 17.78 0)
 			(effects
 				(font
@@ -9883,7 +9883,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Adam_Custom_Footprints:CherryMX_1.00u_PCB_WS2812B-2020"
+		(property "Footprint" "footprints:CherryMX_1.00u_PCB_WS2812B-2020"
 			(at 109.22 17.78 0)
 			(effects
 				(font
@@ -10104,7 +10104,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Adam_Custom_Footprints:CherryMX_1.00u_PCB_WS2812B-2020"
+		(property "Footprint" "footprints:CherryMX_1.00u_PCB_WS2812B-2020"
 			(at 72.39 48.26 0)
 			(effects
 				(font
@@ -10338,7 +10338,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Adam_Custom_Footprints:CherryMX_1.00u_PCB_WS2812B-2020"
+		(property "Footprint" "footprints:CherryMX_1.00u_PCB_WS2812B-2020"
 			(at 219.71 17.78 0)
 			(effects
 				(font
@@ -10650,7 +10650,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Adam_Custom_Footprints:CherryMX_1.00u_PCB_WS2812B-2020"
+		(property "Footprint" "footprints:CherryMX_1.00u_PCB_WS2812B-2020"
 			(at 293.37 48.26 0)
 			(effects
 				(font
@@ -10739,7 +10739,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Adam_Custom_Footprints:CherryMX_1.00u_PCB_WS2812B-2020"
+		(property "Footprint" "footprints:CherryMX_1.00u_PCB_WS2812B-2020"
 			(at 256.54 17.78 0)
 			(effects
 				(font
@@ -11311,7 +11311,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Adam_Custom_Footprints:CherryMX_1.00u_PCB_WS2812B-2020"
+		(property "Footprint" "footprints:CherryMX_1.00u_PCB_WS2812B-2020"
 			(at 109.22 48.26 0)
 			(effects
 				(font
