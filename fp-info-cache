@@ -1,4 +1,4 @@
-23154005311135858
+23155766619409368
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94737,6 +94737,13 @@ fuse
 0
 2
 2
+footprints
+PEC11H4025FS0016
+PEC11H-4025F-S0016-2
+Undefined or Miscellaneous
+0
+7
+7
 footprints
 PinSocket_1x07_P2.54mm_Vertical_SSD1309
 Through hole straight socket strip, 1x07, 2.54mm pitch, single row (from Kicad 4.0.7), script generated

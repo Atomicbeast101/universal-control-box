@@ -1834,7 +1834,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PEC11H4025FS0016"
+		(property "Footprint" "footprints:PEC11H4025FS0016"
 			(at 121.92 130.48 0)
 			(effects
 				(font
@@ -3345,7 +3345,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PEC11H4025FS0016"
+		(property "Footprint" "footprints:PEC11H4025FS0016"
 			(at 55.88 130.48 0)
 			(effects
 				(font
