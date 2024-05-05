@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "CherryMX_1.00u_PCB_WS2812B-2020"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -349,15 +349,15 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "${KIPRJMOD}/3dmodels/cherry-mx-keycap.step"
+	(model "${KIPRJMOD}/3dmodels/CherryMX_FlatTop_KeyCap.step"
 		(offset
-			(xyz 0 -4.5 16.5)
+			(xyz -9 9 18.5)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz 90 0 0)
 		)
 	)
 )
