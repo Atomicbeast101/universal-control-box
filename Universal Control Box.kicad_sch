@@ -4472,10 +4472,6 @@
 		(uuid "08301c44-38cc-4efd-a722-f3474e944656")
 	)
 	(no_connect
-		(at 62.23 104.14)
-		(uuid "093e7e19-a067-4baf-9f10-0f20ae9233cc")
-	)
-	(no_connect
 		(at 31.75 83.82)
 		(uuid "16e89c7e-3aa6-4286-a59b-6753a03425b8")
 	)
@@ -4486,6 +4482,14 @@
 	(no_connect
 		(at 133.35 140.97)
 		(uuid "37fff787-33fe-4616-8cb6-61bb8da21458")
+	)
+	(no_connect
+		(at 62.23 60.96)
+		(uuid "432d227a-a125-460b-8bed-06523b0db37d")
+	)
+	(no_connect
+		(at 62.23 101.6)
+		(uuid "544b86f3-b9ff-4c62-be06-b6fad18f0554")
 	)
 	(no_connect
 		(at 133.35 125.73)
@@ -4522,10 +4526,6 @@
 	(no_connect
 		(at 31.75 55.88)
 		(uuid "bf1b35c0-c1cc-4edb-8b8a-cb8e5748d422")
-	)
-	(no_connect
-		(at 62.23 106.68)
-		(uuid "e56bb222-c640-4d2d-930e-f2aa617ab27a")
 	)
 	(no_connect
 		(at 62.23 53.34)
@@ -5171,16 +5171,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 60.96) (xy 74.93 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "53f0488a-d91e-4f08-97f4-c04a5bc7f59e")
-	)
-	(wire
-		(pts
 			(xy 144.78 128.27) (xy 143.51 128.27)
 		)
 		(stroke
@@ -5248,16 +5238,6 @@
 			(type dash)
 		)
 		(uuid "5c9316c0-e66e-4b8c-98f1-ac50a38da05d")
-	)
-	(wire
-		(pts
-			(xy 62.23 101.6) (xy 74.93 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "611fdd7e-c3fb-441e-914b-2681231a7a2c")
 	)
 	(wire
 		(pts
@@ -5418,6 +5398,16 @@
 			(type default)
 		)
 		(uuid "75106a1f-1f0b-459b-b7c6-580683a91395")
+	)
+	(wire
+		(pts
+			(xy 62.23 104.14) (xy 74.93 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77a1c9a8-3aae-4386-b244-db1d457d1b97")
 	)
 	(wire
 		(pts
@@ -6271,6 +6261,16 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 106.68) (xy 74.93 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec52d499-09e4-41bd-8208-d1fa3001d86b")
+	)
+	(wire
+		(pts
 			(xy 29.21 153.67) (xy 29.21 154.94)
 		)
 		(stroke
@@ -6595,6 +6595,17 @@
 		(uuid "18533121-8295-46a0-9276-1d1c74fcdc82")
 	)
 	(label "OLED_CS"
+		(at 74.93 104.14 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "21a7e4cf-81a0-45f2-9993-267bf21a7671")
+	)
+	(label "OLED_CS"
 		(at 82.55 171.45 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6648,6 +6659,17 @@
 			(justify left bottom)
 		)
 		(uuid "42ebbc82-0d6c-4b0b-896d-ee312cdceb9c")
+	)
+	(label "OLED_DC"
+		(at 74.93 106.68 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6526b638-cc42-44d3-9f4a-3c8f1097474f")
 	)
 	(label "OLED_RESET"
 		(at 74.93 99.06 180)
@@ -6747,17 +6769,6 @@
 			(justify left bottom)
 		)
 		(uuid "8b8ebd4f-194c-4954-a659-1728405fc27e")
-	)
-	(label "OLED_DC"
-		(at 74.93 101.6 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "9022745b-f1b7-4d38-ad85-80d1d54463ad")
 	)
 	(label "I2C_SCL"
 		(at 74.93 86.36 180)
@@ -6868,17 +6879,6 @@
 			(justify right bottom)
 		)
 		(uuid "ee4bd2cd-ad7b-44e8-aadc-c13978843a33")
-	)
-	(label "OLED_CS"
-		(at 74.93 60.96 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "f19cf83c-41a0-495a-bbc9-15185a501c57")
 	)
 	(label "OLED_RESET"
 		(at 82.55 176.53 180)
