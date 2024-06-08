@@ -5726,16 +5726,6 @@
 		)
 		(uuid "15781b1e-8e58-4e92-8caf-1871b5b0b93a")
 	)
-	(polyline
-		(pts
-			(xy 250.19 26.67) (xy 250.19 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "15dbc323-f530-4d80-bde0-ead6245ed08e")
-	)
 	(wire
 		(pts
 			(xy 189.23 76.2) (xy 189.23 43.18)
@@ -6055,16 +6045,6 @@
 			(type default)
 		)
 		(uuid "3728373b-f708-4d16-9cc6-e8dd460e680b")
-	)
-	(polyline
-		(pts
-			(xy 247.65 33.02) (xy 250.19 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "375a16a5-ea47-4ba1-8777-8b40ca828a54")
 	)
 	(wire
 		(pts
@@ -7396,16 +7376,6 @@
 		)
 		(uuid "ba0df2ff-5b54-4108-9cf8-9ae8b75821cf")
 	)
-	(polyline
-		(pts
-			(xy 250.19 30.48) (xy 269.24 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba59eb71-496d-45d3-9ccc-7ead5c45f098")
-	)
 	(wire
 		(pts
 			(xy 185.42 68.58) (xy 185.42 50.8)
@@ -7515,16 +7485,6 @@
 			(type default)
 		)
 		(uuid "c5a40e7f-37df-4604-a957-c2dd78af4eb5")
-	)
-	(polyline
-		(pts
-			(xy 247.65 26.67) (xy 250.19 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c70c65c7-ce75-45b1-a7d7-bb41ff26ea30")
 	)
 	(wire
 		(pts
@@ -8129,27 +8089,6 @@
 			(type none)
 		)
 		(uuid ee573cc6-2803-4502-9892-b487fc4ceb9e)
-	)
-	(text_box "Careful! CP2102 RX must go to ESP TX, TX go to ESP RX. They need to be crossed. You straight connected them. Remember they are gay."
-		(exclude_from_sim no)
-		(at 267.97 26.67 0)
-		(size 29.21 13.97)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type color)
-			(color 255 255 194 1)
-		)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify left top)
-		)
-		(uuid "2a9b9b40-c706-4aff-b638-cc86df0b4c38")
 	)
 	(text "Mounting Holes"
 		(exclude_from_sim no)
