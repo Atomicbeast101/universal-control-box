@@ -1,4 +1,4 @@
-24213138754291238
+24214856708979099
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98874,3 +98874,10 @@ USB C Type-C Receptacle SMD USB 2.0
 0
 20
 17
+footprints
+XKB-Connectivity-TS-1187A-B-A-B
+tactile push button, 5x5mm
+tact sw push 5mm smd
+0
+4
+2

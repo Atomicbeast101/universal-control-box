@@ -6,7 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Universal Control Box")
-		(rev "v1.0")
+		(date "2024-06-09")
+		(rev "v2.0")
 	)
 	(lib_symbols
 		(symbol "74xGxx:74AHCT1G125"
@@ -14323,7 +14324,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 91.44 138.43 0)
 			(effects
 				(font
@@ -14350,7 +14351,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C15850"
+		(property "LCSC" "C96446"
 			(at 91.44 138.43 0)
 			(effects
 				(font
