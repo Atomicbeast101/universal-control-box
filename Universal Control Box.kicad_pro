@@ -63,7 +63,26 @@
           "width": 0.2672
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "copper_edge_clearance|95800000|25950000|b59e3ba1-95cf-4d52-94db-3cdb447b6387|846c3b6b-198a-4c18-904c-22ce921ecd71",
+        "copper_edge_clearance|96100000|25950000|b59e3ba1-95cf-4d52-94db-3cdb447b6387|be0c06ff-9961-4bb7-bc16-2bc94c24ae24",
+        "copper_edge_clearance|96300000|25950000|b59e3ba1-95cf-4d52-94db-3cdb447b6387|b6dcadc4-c8db-4626-9873-49fa64d419a1",
+        "copper_edge_clearance|96600000|25950000|b59e3ba1-95cf-4d52-94db-3cdb447b6387|e06ca146-742b-457f-a6a1-57bc751e45b2",
+        "hole_clearance|101700000|25950000|c6e21d5d-e680-4649-9a9f-e4642b3dcb05|63246914-e692-4114-a36b-07ce37ddfeee",
+        "hole_clearance|101900000|25950000|c6e21d5d-e680-4649-9a9f-e4642b3dcb05|54b382b9-19ce-4c85-9dc6-855389e9685c",
+        "hole_clearance|102200000|25950000|c6e21d5d-e680-4649-9a9f-e4642b3dcb05|16e9a2b1-c4db-4aff-9a91-f85fc19a718d",
+        "hole_clearance|95800000|25950000|b59e3ba1-95cf-4d52-94db-3cdb447b6387|846c3b6b-198a-4c18-904c-22ce921ecd71",
+        "hole_clearance|96100000|25950000|b59e3ba1-95cf-4d52-94db-3cdb447b6387|be0c06ff-9961-4bb7-bc16-2bc94c24ae24",
+        "hole_clearance|96300000|25950000|b59e3ba1-95cf-4d52-94db-3cdb447b6387|b6dcadc4-c8db-4626-9873-49fa64d419a1",
+        "hole_clearance|96600000|25950000|b59e3ba1-95cf-4d52-94db-3cdb447b6387|e06ca146-742b-457f-a6a1-57bc751e45b2",
+        "silk_edge_clearance|103580000|19800000|82e7ee15-cef3-4057-88ad-7ded391a27c9|bc35a8e6-05bc-4d78-988a-cfe7bfca91ab",
+        "silk_edge_clearance|38130000|26000000|c3e8fa54-ec0a-4397-ad22-0b8de64fbaff|270f6e6f-46e9-4bb0-addb-ed0c54bfa0f7",
+        "silk_edge_clearance|56370000|26000000|c3e8fa54-ec0a-4397-ad22-0b8de64fbaff|985dfe93-cd5a-43b8-8a56-6173b9c723fd",
+        "silk_edge_clearance|94420000|19800000|82e7ee15-cef3-4057-88ad-7ded391a27c9|6cf1c418-26ee-45c6-bd70-f1795fe2e9c9",
+        "silk_overlap|95367000|62843114|90c1ca5d-0c14-45ad-a510-572a8329d266|a4410937-5d1a-4c53-a918-50059225501d",
+        "text_thickness|95367000|63150200|90c1ca5d-0c14-45ad-a510-572a8329d266|00000000-0000-0000-0000-000000000000",
+        "text_thickness|95367000|63150200|a4410937-5d1a-4c53-a918-50059225501d|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -84,6 +103,7 @@
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
         "hole_near_hole": "error",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -534,7 +554,8 @@
     },
     "net_colors": {
       "+3.3V": "rgb(255, 182, 40)",
-      "+5V": "rgb(255, 58, 39)"
+      "+5V": "rgb(255, 58, 39)",
+      "GND": "rgb(132, 132, 132)"
     },
     "netclass_assignments": null,
     "netclass_patterns": [
@@ -588,6 +609,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
