@@ -332,7 +332,7 @@
 		(path "/f5315814-35ef-4bdb-8db9-3336c3297f22/c698076b-6178-475f-8a54-aed3e252ec56")
 		(sheetname "KeyCaps")
 		(sheetfile "KeyCaps.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start 7 7)
 			(end -7 7)
@@ -969,7 +969,7 @@
 		(path "/f5315814-35ef-4bdb-8db9-3336c3297f22/e906b7f0-f62e-477b-a3c2-53e8058df4c0")
 		(sheetname "KeyCaps")
 		(sheetfile "KeyCaps.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start 7 7)
 			(end -7 7)
@@ -4432,7 +4432,7 @@
 		(path "/f5315814-35ef-4bdb-8db9-3336c3297f22/6240d706-6f58-44fc-8b7e-76dd03d4a787")
 		(sheetname "KeyCaps")
 		(sheetfile "KeyCaps.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start 7 7)
 			(end -7 7)
@@ -5733,7 +5733,7 @@
 		(path "/f5315814-35ef-4bdb-8db9-3336c3297f22/6b23db06-36be-40bf-a4b0-55c9aa255ac7")
 		(sheetname "KeyCaps")
 		(sheetfile "KeyCaps.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start 7 7)
 			(end -7 7)
@@ -6644,7 +6644,7 @@
 		(path "/f5315814-35ef-4bdb-8db9-3336c3297f22/844229c9-7933-4e1c-8aa9-1a40ec421217")
 		(sheetname "KeyCaps")
 		(sheetfile "KeyCaps.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start 7 7)
 			(end -7 7)
@@ -7041,7 +7041,7 @@
 		(path "/f5315814-35ef-4bdb-8db9-3336c3297f22/d09c1e63-10bf-4a95-9ee2-4026c269977c")
 		(sheetname "KeyCaps")
 		(sheetfile "KeyCaps.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start 7 7)
 			(end -7 7)
@@ -7438,7 +7438,7 @@
 		(path "/f5315814-35ef-4bdb-8db9-3336c3297f22/3e51b98f-ce39-4330-8ea0-9ac691126b41")
 		(sheetname "KeyCaps")
 		(sheetfile "KeyCaps.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start 7 7)
 			(end -7 7)
@@ -12341,7 +12341,7 @@
 		(path "/f5315814-35ef-4bdb-8db9-3336c3297f22/b23eec99-3377-43a4-84d1-a79cbafba415")
 		(sheetname "KeyCaps")
 		(sheetfile "KeyCaps.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start 7 7)
 			(end -7 7)
@@ -12738,7 +12738,7 @@
 		(path "/f5315814-35ef-4bdb-8db9-3336c3297f22/d15b18fc-14d8-4cf4-9d04-e07cf62d4d2e")
 		(sheetname "KeyCaps")
 		(sheetfile "KeyCaps.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start 7 7)
 			(end -7 7)
@@ -17513,7 +17513,7 @@
 		(path "/f5315814-35ef-4bdb-8db9-3336c3297f22/2deaed4d-ba77-4441-a233-7e34e506c3de")
 		(sheetname "KeyCaps")
 		(sheetfile "KeyCaps.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start 7 7)
 			(end -7 7)
@@ -18814,7 +18814,7 @@
 		(path "/f5315814-35ef-4bdb-8db9-3336c3297f22/8dc1fabb-ebc7-46e9-80c6-83bce6c7edcc")
 		(sheetname "KeyCaps")
 		(sheetfile "KeyCaps.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start 7 7)
 			(end -7 7)
@@ -23441,7 +23441,7 @@
 		(path "/f5315814-35ef-4bdb-8db9-3336c3297f22/ba6906ed-ef64-4763-9b47-649db83adb9f")
 		(sheetname "KeyCaps")
 		(sheetfile "KeyCaps.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start 7 7)
 			(end -7 7)
@@ -25820,7 +25820,7 @@
 		(path "/f5315814-35ef-4bdb-8db9-3336c3297f22/1adf4cd7-8215-4cc2-b56c-6d9a5f0da938")
 		(sheetname "KeyCaps")
 		(sheetfile "KeyCaps.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start 7 7)
 			(end -7 7)
@@ -27522,7 +27522,7 @@
 		(path "/f5315814-35ef-4bdb-8db9-3336c3297f22/14669fd5-26da-4b37-8e9e-a564939c3ad3")
 		(sheetname "KeyCaps")
 		(sheetfile "KeyCaps.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start 7 7)
 			(end -7 7)
@@ -28825,7 +28825,7 @@
 		(path "/f5315814-35ef-4bdb-8db9-3336c3297f22/b2142cf8-1653-4717-8605-d84741104208")
 		(sheetname "KeyCaps")
 		(sheetfile "KeyCaps.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start 7 7)
 			(end -7 7)
@@ -30614,7 +30614,7 @@
 		(path "/f5315814-35ef-4bdb-8db9-3336c3297f22/1323ecbf-d52e-447b-955f-949fe3e9d5f6")
 		(sheetname "KeyCaps")
 		(sheetfile "KeyCaps.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start 7 7)
 			(end -7 7)
