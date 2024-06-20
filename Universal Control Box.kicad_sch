@@ -9251,7 +9251,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C83572"
+		(property "LCSC" "C83572"
 			(at 223.52 125.73 0)
 			(effects
 				(font
@@ -14251,7 +14251,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C83572"
+		(property "LCSC" "C83572"
 			(at 223.52 111.76 0)
 			(effects
 				(font
